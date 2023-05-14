@@ -9,3 +9,6 @@ Below is a list of my video portfolio posted to Youtube
 
 
 [Data cleaning with Python, #Datachallenge for April](https://www.youtube.com/watch?v=wPNaK4fX1m8)
+
+
+[Online Shop Customer Sales Data (CLEANING WITH PYTHON)](https://youtu.be/_djl7AI51FQ)
