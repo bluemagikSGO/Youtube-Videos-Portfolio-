@@ -12,3 +12,6 @@ Below is a list of my video portfolio posted to Youtube
 
 
 [Online Shop Customer Sales Data (CLEANING WITH PYTHON)](https://youtu.be/_djl7AI51FQ)
+
+
+[Online Shop Customer Sales Data (ANALYSIS AND VISUALIZATION WITH POWER BI) ꝏꝏꝏ](https://www.youtube.com/watch?v=keVPMYtNKto)
