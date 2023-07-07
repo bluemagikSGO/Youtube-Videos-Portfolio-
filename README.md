@@ -15,3 +15,6 @@ Below is a list of my video portfolio posted to Youtube
 
 
 [Online Shop Customer Sales Data (ANALYSIS AND VISUALIZATION WITH POWER BI) ꝏꝏꝏ](https://youtu.be/YThecBGSjJg)
+
+
+[YOUTUBE EXPLANTION FOR THE TELECOM CHURN ANALYSIS](https://youtu.be/lM2DQ7FzCk)
