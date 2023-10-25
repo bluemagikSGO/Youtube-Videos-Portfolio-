@@ -21,3 +21,6 @@ Below is a list of my video portfolio posted to Youtube
 
 
 [Exploratory Data Analysis with Python Programming ( CREDIT CARD ATTRITION ANALYSIS)](https://youtu.be/kUPqWZLjz6A)
+
+
+[CEO-CMO INSIGHT ANALYSIS FOR TATA (FORAGE PROJECT)](https://youtu.be/KKEwjIswP0A)
